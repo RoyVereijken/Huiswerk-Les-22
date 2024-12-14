@@ -29,3 +29,7 @@ form {
     margin-right: auto;
     text-align: center;
 }
+
+footer{ 
+    max-height: 200px;
+}
